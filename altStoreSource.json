@@ -1,7 +1,7 @@
 {
     "name": "Baumens's Source",
     "subtitle": "All my apps in one place.",
-    "tintColor": "#00a3a4",
+    "tintColor": "#005c8b",
     "apps": [
         {
             "name": "ToDoApp",
@@ -9,7 +9,7 @@
             "developerName": "Baumens",
             "localizedDescription": "Simple ToDoApp",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#005c8b",
+            "tintColor": "#1f252e",
             "versions": [
                 {
                     "version": "1.0.0",
@@ -21,7 +21,32 @@
             ],
             "appPermissions": {
                 "entitlements": [
+                    
+                ],
+                "privacy": {
                   
+                }
+            }
+        },
+        {
+            "name": "QUIXO",
+            "bundleIdentifier": "com.example.chixo",
+            "developerName": "Baumens",
+            "localizedDescription": "Simple App to play the boardgame QUIXO",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#4a452b",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 22663,
+                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/ToDoApp/ToDoApp.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    
                 ],
                 "privacy": {
                   
@@ -30,6 +55,16 @@
         },
     ],
     "news": [
+        {
+            "title": "New App Release!",
+            "identifier": "app_update",
+            "caption": "Release of the QUIXO App!",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#4a452b",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": true,
+            "appID": "com.example.todoApp"
+        },
         {
             "title": "New App Release!",
             "identifier": "app_update",
