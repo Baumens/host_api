@@ -10,13 +10,8 @@
             "bundleIdentifier": "com.example.todoApp",
             "developerName": "Baumens",
             "localizedDescription": "Simple ToDoApp",
-            "iconURL": "https://lh3.googleusercontent.com/pw/AP1GczMTQ07bA-WaDaUO6T-RWjeJxP-GUqmrkxWe1wz01CYnFmJzFzF-RvVq0eHhn9USUuN4sBDc6QuXrQd4Iib2fgXi9XkR28qm-R8srvuTJDoqpf5JOoyMiEhXm5Qt3tPtWS2lB-GFbT9jbL_RT_frnRdb=w1024-h1024-s-no-gm?authuser=0",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#4c4c4c",
-            "screenshots": [
-                "https://lh3.googleusercontent.com/pw/AP1GczNWRGSIoFp3KqE4LttwVamz1JAkNS_CT82Tkw85m23yyOvSNTcmgSU_LNU23HJUG2nx0PyPf_fgNv30mB0gcn2lQSNm3VOLV47nb4UNgBA7KwezAdXM5BxjzoQadeuuv04aoO6p9GMtQmnHYuIwpDUs=w940-h940-s-no-gm?authuser=0",
-                "https://lh3.googleusercontent.com/pw/AP1GczORvycKDj4V16GaT0Z74y_QnaDDzlAy63_bPy3ngbEZHuYd2myvqtc-ruwOb8xHTPYeoBXVSs45xogIn58qUfZs2sOaLHQuXSkACV45iwMqMJJlq4C_ol1BDWxeZuIMNOKndYCiABoyTEg7s3I0FTj3=w954-h954-s-no-gm?authuser=0",
-                "https://lh3.googleusercontent.com/pw/AP1GczNNuCi8WUjn3-IS4ITGQTl5Xg3Vdf6VXjO3GCujS-ySPy32hUGnHzBRDFxAyvzW-Zza6PKEHDaLdXivEjx5QN4-PJkFfWWJMDV3RJHv9o-Z2divDj7TBdN3lV7pVaKloS79gPNMZeoEILQ04hQJYXpr=w948-h948-s-no-gm?authuser=0",
-            ],
             "versions": [
                 {
                     "version": "1.0.0",
@@ -42,11 +37,6 @@
             "localizedDescription": "Simple App to play the boardgame QUIXO",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#4a452b",
-            "screenshots": [
-                "https://lh3.googleusercontent.com/pw/AP1GczMFg_Bcv48Dt2FuEbdZw6Z61nzL-RcXZphlURWDYWyX9DrhEpevWpWbv-NWl_s-ZnRDdP9oaWrmZ5I3XE0--SRcnWAPeR3GXwJhqzbTjvryVAN1Q9W9-fVXQWadocc58DlLBhFXRaW1BQwNzhG_qXW2=w862-h1108-s-no-gm?authuser=0",
-                "https://lh3.googleusercontent.com/pw/AP1GczNjQdcpNBsBkcVW5nJQM65evW6aA6ICJHNg93IfaVJdSAPKe3wSXmNlO8Rh_-90hRl2jn0tSR77rrute_lkcBbpPmEq8bx8NRLu0t9Zf2eK2yNuUtm1949RjCRjqNiRcmdnJQk2KqDQePqwZ1i0HjzP=w1186-h1105-s-no-gm?authuser=0",
-                "https://lh3.googleusercontent.com/pw/AP1GczOC-KKbo_th2SQjfHxolEEN2cEqQYyJXKzdlaSiHOB7Br7ABJc57IxXt-V9hznQYOnC_teoHkORY3-hbbfGMAgHyQYyQz4AdkvgwsOgWBTZGhkxS4Pj8CyHV7YZAEQ7Z2JS-X-uXZNBtA6Y1vMyyRCE=w745-h796-s-no-gm?authuser=0",
-            ]
             "versions": [
                 {
                     "version": "1.0.0",
@@ -73,7 +63,7 @@
             "caption": "Release of the QUIXO App!",
             "date": "2025-02-23T10:00:00-07:01",
             "tintColor": "#4a452b",
-            "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczMFg_Bcv48Dt2FuEbdZw6Z61nzL-RcXZphlURWDYWyX9DrhEpevWpWbv-NWl_s-ZnRDdP9oaWrmZ5I3XE0--SRcnWAPeR3GXwJhqzbTjvryVAN1Q9W9-fVXQWadocc58DlLBhFXRaW1BQwNzhG_qXW2=w862-h1108-s-no-gm?authuser=0",
+            "imageURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "notify": true,
             "appID": "com.example.chixo"
         },
@@ -83,7 +73,7 @@
             "caption": "Release of the ToDoApp",
             "date": "2025-02-23T10:00:00-07:00",
             "tintColor": "#4c4c4c",
-            "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczNWRGSIoFp3KqE4LttwVamz1JAkNS_CT82Tkw85m23yyOvSNTcmgSU_LNU23HJUG2nx0PyPf_fgNv30mB0gcn2lQSNm3VOLV47nb4UNgBA7KwezAdXM5BxjzoQadeuuv04aoO6p9GMtQmnHYuIwpDUs=w940-h940-s-no-gm?authuser=0",
+            "imageURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "notify": true,
             "appID": "com.example.todoApp"
         }
