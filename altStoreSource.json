@@ -5,7 +5,7 @@
     "apps": [
         {
             "name": "ToDoApp",
-            "bundleIdentifier": "com.example.myapp",
+            "bundleIdentifier": "com.Baumens.toDoApp",
             "developerName": "Baumens",
             "localizedDescription": "Simple ToDoApp",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
