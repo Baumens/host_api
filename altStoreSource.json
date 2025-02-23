@@ -9,7 +9,7 @@
             "developerName": "Baumens",
             "localizedDescription": "Simple ToDoApp",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
+            "tintColor": "#005c8b",
             "versions": [
                 {
                     "version": "1.0.0",
