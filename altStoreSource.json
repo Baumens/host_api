@@ -12,7 +12,7 @@
             "tintColor": "#5CA399",
             "versions": [
                 {
-                    "version": "1.0",
+                    "version": "1.0.0",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 22663,
                     "downloadURL": "https://github.com/Baumens/host_api/releases/download/ToDoApp/ToDoApp.ipa",
