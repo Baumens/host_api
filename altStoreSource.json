@@ -5,7 +5,7 @@
     "apps": [
         {
             "name": "ToDoApp",
-            "bundleIdentifier": "com.simonpaur.ToDoApp",
+            "bundleIdentifier": "com.example.todoApp",
             "developerName": "Baumens",
             "localizedDescription": "Simple ToDoApp",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -38,7 +38,7 @@
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": true,
-            "appID": "com.simonpaur.ToDoApp"
+            "appID": "com.example.todoApp"
         }
     ]
 }
