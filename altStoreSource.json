@@ -1,0 +1,43 @@
+{
+    "name": "Baumens's Source",
+    "subtitle": "All my apps in one place.",
+    "tintColor": "#00a3a4",
+    "apps": [
+        {
+            "name": "ToDoApp",
+            "bundleIdentifier": "com.example.myapp",
+            "developerName": "Baumens",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 22663,
+                    "downloadURL": "https://github.com/Baumens/todoApp_IPA/releases/download/v1.0/FlutterIpaExport.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                  
+                ],
+                "privacy": {
+                  
+                }
+            }
+        },
+    ],
+    "news": [
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": false,
+            "appID": "com.example.myapp"
+        }
+    ]
+}
