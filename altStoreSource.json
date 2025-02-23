@@ -7,6 +7,7 @@
             "name": "ToDoApp",
             "bundleIdentifier": "com.example.myapp",
             "developerName": "Baumens",
+            "localizedDescription": "Simple ToDoApp",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
             "versions": [
