@@ -40,7 +40,7 @@
             "versions": [
                 {
                     "version": "1.1.0",
-                    "date": "2025-03-02T07:00:00-08:00",
+                    "date": "2025-03-02T09:00:00+01:00",
                     "size": 22404,
                     "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.1.0/QuixoApp1-1-0.ipa.ipa",
                     "localizedDescription": "Fixes and added Swipe Gesture"
@@ -68,7 +68,7 @@
             "title": "Updateded QUIXO App!",
             "identifier": "app_update",
             "caption": "Fixed some minor Bugs and added new Features!",
-            "date": "2025-03-02T07:00:00-08:00",
+            "date": "2025-03-02T09:00:00+01:00",
             "tintColor": "#4a452b",
             "imageURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "notify": true,
