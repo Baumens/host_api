@@ -39,12 +39,19 @@
             "tintColor": "#4a452b",
             "versions": [
                 {
+                    "version": "1.1.0",
+                    "date": "2025-03-02T07:00:00-08:00",
+                    "size": 22404,
+                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.1.0/QuixoApp1-1-0.ipa.ipa",
+                    "localizedDescription": "Fixes and added Swipe Gesture"
+                },
+                {
                     "version": "1.0.0",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 22663,
-                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp/QuixoApp1-0-0.ipa",
+                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.0.0/QuixoApp1-0-0.ipa",
                     "localizedDescription": "Initial release."
-                }
+                },
             ],
             "appPermissions": {
                 "entitlements": [
@@ -57,6 +64,16 @@
         },
     ],
     "news": [
+        {
+            "title": "Updateded QUIXO App!",
+            "identifier": "app_update",
+            "caption": "Fixed some minor Bugs and added new Features!",
+            "date": "2025-03-02T07:00:00-08:00",
+            "tintColor": "#4a452b",
+            "imageURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "notify": true,
+            "appID": "com.example.chixo"
+        },
         {
             "title": "New App Release!",
             "identifier": "app_update",
