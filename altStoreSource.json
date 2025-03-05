@@ -39,25 +39,25 @@
             "tintColor": "#4a452b",
             "versions": [
                 {
-                    "version": "1.2.0",
-                    "date": "2025-03-05T09:00:00+01:00",
-                    "size": 22404,
-                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.2.0/QuixoApp1-2-0.ipa",
-                    "localizedDescription": "Added Visual Respond for winning tiles"
+                    "version": "1.0.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 21900,
+                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.0.0/QuixoApp1-0-0.ipa",
+                    "localizedDescription": "Initial release."
                 },
                 {
                     "version": "1.1.0",
                     "date": "2025-03-02T09:00:00+01:00",
-                    "size": 22404,
+                    "size": 21900,
                     "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.1.0/QuixoApp1-1-0.ipa",
                     "localizedDescription": "Fixes and added Swipe Gesture"
                 },
                 {
-                    "version": "1.0.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 22663,
-                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.0.0/QuixoApp1-0-0.ipa",
-                    "localizedDescription": "Initial release."
+                    "version": "1.2.0",
+                    "date": "2025-03-05T09:00:00+01:00",
+                    "size": 21900,
+                    "downloadURL": "https://github.com/Baumens/host_api/releases/download/QuixoApp1.2.0/QuixoApp1-2-0.ipa",
+                    "localizedDescription": "Added Visual Respond for winning tiles"
                 },
             ],
             "appPermissions": {
